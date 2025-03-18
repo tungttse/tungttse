@@ -11,36 +11,8 @@ Currently open to freelance or remote opportunities — feel free to reach out!
 
 ---
 
-## 🛠 Technical Skills
-
-### Backend Development
-- Node.js
-- TypeScript
-- Express.js
-
-### Mobile Development
-- Kotlin (Android)
-- Flutter (Cross-platform)
-
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### DevOps & Cloud
-- Docker / Kubernetes
-- AWS / GCP
-- CI/CD Pipelines
-
-### Frontend Development
-- React.js
-- Angular
-
----
-
 ## 🎓 Education
-**Master of Science in Computer Science**  
-*Maharishi International University* (2021)
+**Master of Science in Computer Science** 
 
 ---
 
