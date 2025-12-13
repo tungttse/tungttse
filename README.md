@@ -3,7 +3,7 @@
 I'm a **Full-Stack Software Engineer** with over **12 years of experience** building scalable web and mobile applications.
 
 💻 On the backend, I work with **Node.js**, **TypeScript**, and **Express.js**.  
-📱 On the mobile side, I build apps using **Kotlin** (Android) and **Flutter** (cross-platform).  
+📱 On the client side, I build apps using **Kotlin** (Android) and **Flutter** (cross-platform). I build web application by ReactJs.
 ☁️ I'm also comfortable deploying apps to **AWS** with **Docker** and **Kubernetes**.
 
 I'm passionate about clean code, solving real-world problems, and delivering high-quality products.  
