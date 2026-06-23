@@ -1,13 +1,168 @@
-## 👋 Hi there, I'm Tung!
+## 👋 Hi there, I'm Stefan!
 
-I'm a **Full-Stack Software Engineer** with over **12 years of experience** building scalable web and mobile applications.
+**Senior Software Engineer | Backend-Focused Full Stack Engineer**
 
-💻 On the backend, I work with **Node.js**, **TypeScript**, and **Express.js**.  
-📱 On the client side, I build apps using **Kotlin** (Android) and **Flutter** (cross-platform). I build web application by ReactJs.
-☁️ I'm also comfortable deploying apps to **AWS** with **Docker** and **Kubernetes**.
+- 13+ years of software engineering experience
+- Backend-focused full stack engineer
+- Strong in Java, Spring Boot, AWS, Node.js, and TypeScript
+- Experienced with microservices and event-driven architectures
+- Hands-on with system design and cloud-native solutions
+- Practical Tech Lead experience
+- Strong React background
+- Based in Dallas–Fort Worth, Texas
 
-I'm passionate about clean code, solving real-world problems, and delivering high-quality products.  
-Currently open to freelance or remote opportunities — feel free to reach out!
+---
+
+## About Me
+
+I'm a Senior Software Engineer with 10+ years of experience designing, building, and operating distributed systems in production environments.
+
+My primary expertise is backend engineering, cloud architecture, and microservices. Throughout my career, I've worked across the entire software development lifecycle—from solution design and backlog refinement to implementation, testing, deployment, monitoring, and production support.
+
+While my strongest focus is backend development, I also have significant frontend experience with React and can contribute across the full stack when needed.
+
+---
+
+## Core Expertise
+
+### Backend Engineering
+
+* Java
+* Spring Boot
+* Node.js
+* TypeScript
+* RESTful APIs
+* Microservices Architecture
+* Event-Driven Architecture
+* Distributed Systems
+* API Design
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* DynamoDB
+* Redis
+
+### Cloud & AWS
+
+Hands-on experience designing and implementing solutions using:
+
+* ECS / Fargate
+* Lambda
+* API Gateway
+* SQS
+* SNS
+* Kinesis
+* Step Functions
+* Route 53
+* IoT Core
+* Secrets Manager
+* Systems Manager (SSM)
+* CloudWatch
+
+### Frontend
+
+* React.js
+* TypeScript
+* JavaScript
+
+Working knowledge:
+
+* Angular
+
+---
+
+## Architecture Experience
+
+I have participated in designing and implementing systems involving:
+
+* Microservices architectures
+* Event-driven systems
+* Asynchronous messaging
+* Pub/Sub communication
+* Multi-region deployments
+* Active-active architectures
+* High-availability systems
+* Cloud-native applications
+* Scalable REST APIs
+
+Areas where I regularly contribute:
+
+* Technical discovery
+* Solution design
+* API contract design
+* Service decomposition
+* Scalability planning
+* Reliability and resiliency design
+* Production monitoring strategies
+
+---
+
+## Leadership Experience
+
+Although my primary title has been Senior Software Engineer, I have frequently taken on technical leadership responsibilities including:
+
+* Leading technical discussions
+* Mentoring engineers
+* Code reviews
+* Backlog grooming
+* Ticket refinement
+* Technical estimation
+* Architecture reviews
+* Cross-functional collaboration
+
+I consider myself a hands-on Senior Engineer with practical Tech Lead experience.
+
+---
+
+## Skill Matrix
+
+| Area                 | Level        |
+| -------------------- | ------------ |
+| Java / Spring Boot   | Expert       |
+| Node.js / TypeScript | Advanced     |
+| AWS                  | Advanced     |
+| Microservices        | Expert       |
+| Distributed Systems  | Advanced     |
+| System Design        | Advanced     |
+| MongoDB              | Expert       |
+| PostgreSQL           | Advanced     |
+| React                | Advanced     |
+| Angular              | Intermediate |
+| Technical Leadership | Advanced     |
+
+---
+
+## Preferred Roles
+
+* Senior Software Engineer
+* Senior Backend Engineer
+* Lead Software Engineer
+* Technical Lead
+
+Preferred stack:
+
+```text
+Java • Spring Boot • AWS • Node.js • TypeScript
+MongoDB • PostgreSQL • React
+```
+
+---
+
+## What I Enjoy Building
+
+I enjoy solving engineering problems related to:
+
+* Scalability
+* Reliability
+* Cloud architecture
+* Event-driven systems
+* Backend services
+* Developer productivity
+* Distributed applications
+
+I believe great software comes from balancing simplicity, maintainability, and business impact.
 
 ---
 
