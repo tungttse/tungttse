@@ -166,6 +166,23 @@ I believe great software comes from balancing simplicity, maintainability, and b
 
 ---
 
+## 🎮 Projects
+
+### [Quiet Isle](https://quietisle.app/) 🏝️
+
+A cozy pixel-art island in the browser where you pick a seat, start a focus timer, and work quietly alongside other people. There's no camera, no microphone, and no chat. It's free to use, and you don't need an account.
+
+* **Real-time shared world:** a café, library, beach, campfire, and park where nearby people can see each other working
+* **Focus sessions:** a 25-minute timer by default, plus break activities like stretching, walking, waving, and cheering others on
+* **Light social features:** add friends with an invite link, see where they are, and send claps that arrive at their next break. A status line and five emotes are the only ways to communicate.
+* **Personal stats:** finished sessions by day, week, month, or year, stored locally in the browser
+* **Ambience:** ambient sounds that change by location, or your own YouTube music and playlists
+* **Built to be light:** low resource use when the scene is idle, and works on phones with tap-to-walk and a mini-map
+
+👉 **Try it:** [quietisle.app](https://quietisle.app/)
+
+---
+
 ## 🎓 Education
 **Master of Science in Computer Science** 
 
